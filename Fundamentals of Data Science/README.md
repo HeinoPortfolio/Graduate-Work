@@ -1,4 +1,4 @@
-# Work Repo
+# Coursework Repo
 Coursework for Fundamentals of Data Science
 
 **Assignment**|**Concepts Used**
