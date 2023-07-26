@@ -1,5 +1,5 @@
-# Home Work Repo
-Homework for Fundamentals of Data Science
+# Work Repo
+Coursework for Fundamentals of Data Science
 
 **Assignment**|**Concepts Used**
 :-----:|:-----:
