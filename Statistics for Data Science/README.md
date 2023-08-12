@@ -1,12 +1,13 @@
 
-Will be updated after the course has been completed the end of August 2023.
 
 # Coursework Repo
 Coursework for Statistics for Data Science
 
-**Assignment**|**Concepts Used**
+This is a page with a description of the assignments that required coding for the course.  For more information go to the README for the drill.
+
+**Assignment**|**Description of Assignment**
 :-----:|:-----:
-Drill 1 | ???
+Drill 1 |  Construct a frequency distribution and a histogram. Find the percentage of observations within one standard deviation of the mean. Use the selling price for analysis.
 Drill 2 | ???
 Drill 3 |T???
 Drill 4 | ???
