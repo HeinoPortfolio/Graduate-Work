@@ -17,3 +17,10 @@ Fundamentals of Data Science | An introduction to the fundamentals of data scien
 Statistics for Data Science|  An introduction to statistics for data science.
 
 
+**Course Number**|**Directory**|**Course Description**| Status
+|:-----:|:-----:|:-----| :-----: |
+1 | []() | |$`\textcolor{blue}{\text{Completed}}`$ 
+2 | []() | |$`\textcolor{blue}{\text{Completed}}`$ 
+3 | []() |  | $`\textcolor{blue}{\text{Completed}}`$ 
+
+
