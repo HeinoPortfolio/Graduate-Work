@@ -6,7 +6,7 @@ The table below is the order that the courses were taken in.  The listing above 
 
 **Additional Graduate Work**
 
-You will find additional work from my master's degree in data analytic and computer science. **Note:**  The master's in computer science repo is only available via request and only for the purposes of job interview and othe similar events.  This is to uphold the univeristy's policy on public exhibtion of coursework.  This can be made available only by request during the job interview process.
+You will find additional work from my master's degree in data analytic and computer science. **Note:**  The master's in computer science repo is only available via request and only for the purposes of job interview and other similar events.  This is to uphold the univeristy's policy on public exhibtion of coursework.  This can be made available only by request during the job interview process.
 
 - Master's in Data Analytics [Click Here](https://github.com/HeinoPortfolio/Data-Analytics-Grad-Work).
 - Master's in Computer Science  [Click Here](https://github.com/HeinoPortfolio/MS_Comp_Sci) .**[This link is only active for job inteviews.]**
