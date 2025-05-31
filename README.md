@@ -19,8 +19,8 @@ Statistics for Data Science|  An introduction to statistics for data science.
 
 **Course Number**|**Directory**|**Course Description**| Status
 |:-----:|:-----:|:-----| :-----: |
-1 | []() | |$`\textcolor{blue}{\text{Completed}}`$ 
-2 | []() | |$`\textcolor{blue}{\text{Completed}}`$ 
-3 | []() |  | $`\textcolor{blue}{\text{Completed}}`$ 
+1 | []() | |
+2 | []() | |
+3 | []() |  | 
 
 
